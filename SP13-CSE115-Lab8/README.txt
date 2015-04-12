@@ -1,0 +1,6 @@
+--This was an independent project made in Eclipse at the end of my first semester of Java in undergraduate.
+--This project is a simple matching game. When ran, it displays a 4x4 grid of playing cards, face down.
+--A card will flip over when clicked. Another card will flip upon clicking. If the cards are not a match, they will flip back over. If they are a match, they will disappear.
+--When all cards are matched, the window will close and a message displaying completion time will appear in the console.
+--Several classes and methods were employed in the development of this game.
+--We implemented what we had learned during that semester, including displaying images to the screen, developing a GUI, implementing label listeners, using timers, handling mouse clicks, using JFrame/JLabel/JButtons, etc...
